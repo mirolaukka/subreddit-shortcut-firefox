@@ -1,0 +1,1 @@
+# subreddit-shortcut-firefox
